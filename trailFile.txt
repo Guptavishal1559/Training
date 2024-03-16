@@ -1,0 +1,1 @@
+Hi, this is trail file for python_psql_training i want to show the that branch in git account so i am creating this file..to add , commit and push
